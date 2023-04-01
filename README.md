@@ -29,9 +29,9 @@ organization that helps me grow.</p>
 
 ✔️ 👨‍💻 All of my projects are available at [Harsh Portfolio](https://harsh-r-portfolio.netlify.app/)
 
-✔️ 💬 Ask me about **Javascript**
+✔️ 💬 Ask me about **Javascript/Node-js/REST-Api**
 
-✔️ 📫 How to reach me **harsh.gajera17@gmail.com**
+✔️ 📫 How to reach me **shekhartayde14@gmail.com**
 
 ✔️ 📄 Know about my experiences [Resume ](https://github.com/Harsh-R-16)
 
