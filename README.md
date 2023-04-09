@@ -5,10 +5,10 @@
 <img src="https://img.shields.io/badge/Html-HTML-brown"/>
   <img src="https://img.shields.io/badge/Css-CSS-white"/>
 <img src="https://img.shields.io/badge/JS-Javascript-red"/>
-<img src="https://img.shields.io/badge/React-React-blue"/>
 <img src="https://img.shields.io/badge/Node-node-green"/>
 <img src="https://img.shields.io/badge/express-Express-blueviolet"/>
 <img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/>
+  <img src="https://img.shields.io/badge/React-React-blue"/>
 </p>
 
 
