@@ -55,9 +55,6 @@ organization that helps me grow.</p>
 <!--  CONTRIBUTION AND STREAK BLOCK -->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harsh-R-16&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
          
-<hr>
-
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Harsh-R-16)
 
 <hr>
 
