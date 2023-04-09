@@ -27,7 +27,7 @@ organization that helps me grow.</p>
 
 ✔️ 🌱 I’m currently learning **MERN stack**
 
-✔️ 👨‍💻 All of my projects are available at [Harsh Portfolio](https://shekhartayde.netlify.app/)
+✔️ 👨‍💻 All of my projects are available at [Shekhar Tayde](https://shekhartayde.netlify.app/)
 
 ✔️ 💬 Ask me about **Javascript/Node-js/REST-Api**
 
