@@ -38,7 +38,7 @@ organization that helps me grow.</p>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/harsh-gajera-331b84216/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harsh Gajera" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shekhar-tayde/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harsh Gajera" height="30" width="40" /></a>
 <a href="https://twitter.com/HarshG34406258" target="_blank" ><img align="center" src="https://www.svgrepo.com/show/20626/twitter.svg" alt="Harsh Gajera" height="30" width="40" /></a>
 </p>
 
