@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shekhar Tayde</h1>
-<h3 align="center">Learning Full Stack Web Developement</h3>
+<h3 align="center">Backend Developer with devops handson</h3>
 
 <p align= "center">
 <img src="https://img.shields.io/badge/Html-HTML-brown"/>
@@ -18,18 +18,19 @@
  <p align="center"><img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"  style="max-width:100%;"/>
 </p>
 
-<p>Dedicated Backend developer who is passionate about learning new things.
-A good leader and a good team player. Looking forward to developing products
-that help in making people’s lives better and becoming an integral part of an
-organization that helps me grow.</p>
+<p>Backend Developer with 2 years of experience in building scalable applications using Node.js,
+NestJS with GraphQL. Proficient in designing and deploying web applications. Experienced in
+AWS Containerized deployments, infrastructure automation with Terraform, and
+implementing CI/CD pipelines for seamless development workflows. Passionate about backend
+performance, security, and cloud infrastructure management.</p>
 
 🌱 **About myself**<br>
 
-✔️ 🌱 I’m currently learning **MERN stack**
+✔️ 🌱 I’m currently working as a **Jr. Software Developer**
 
 ✔️ 👨‍💻 All of my projects are available at [Shekhar Tayde](https://shekhartayde.netlify.app/)
 
-✔️ 💬 Ask me about **Javascript/Node-js/REST-Api**
+✔️ 💬 Ask me about **Javascript/Node-js/REST-Api/AWS/Terraform/CI-CD**
 
 ✔️ 📫 How to reach me **shekhartayde14@gmail.com**
 
