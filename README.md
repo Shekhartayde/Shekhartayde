@@ -26,7 +26,7 @@ performance, security, and cloud infrastructure management.</p>
 
 🌱 **About myself**<br>
 
-✔️ 🌱 I’m currently working as a **Jr. Software Developer**
+✔️ 🌱 I’m currently working as a **Jr. Software Developer** at Kevit technologies.
 
 ✔️ 👨‍💻 All of my projects are available at [Shekhar Tayde](https://shekhartayde.netlify.app/)
 
